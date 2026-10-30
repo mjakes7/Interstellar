@@ -25,5 +25,8 @@
   },
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "chat.tools.terminal.autoApprove": {
+    "gh": true
   }
 }
